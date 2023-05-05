@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  Cajut
+
+  Created by Jacobo Rodriguez on 26/4/22.
+  
+*/
+
+// CreateGameshowView
+
+"namePlayerTexfieldTitle" = "Name Player";
+"idGameshowTitle" = "ID Room";
+"createGameshow.createRoom" = "Create Room";
+"createGameshow.roomCreated %@" = "ID: %@";
+"createJoinGameshow.errorServer" = "Unexpected Server Error. Please try again later.";
+"createJoinGameshow.noNetworkError" = "No Network connection.";
+"createGameshow.joinRoom" = "Join Room";
+"joinRoom.start" = "Start!";
+"joinGameshow.gameStartedError" = "Gameshow already started. Too late!";
+"initialScreen.joinGame" = "Join a game";
+"initialScreen.createGame" = "Create game";
+"createQuestion.mainTitle" = "Create Question";
+"gameSelection.welcome" = "Welcome!";
+"gameSelection.instructions" = "Let's create a new game";
+"gameSelection.openAnswers" = "Open Answers";
+"gameSelection.openAnswersDescription" = "Create your own Quizz creating your own Questions and Answers";
+"createQuestion.questionTextFieldTitle" = "Question";
+"createQuestion.createGame" = "Create Game";
+"createQuestion.answerTexFieldTitle" = " Answer";
+"createQuestion.errorServer" = "Unexpected Server Error. Please try again later.";
+"createQuestion.noNetworkError" = "No Network connection.";
+
+// JoinGameshowView
